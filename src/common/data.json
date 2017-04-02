@@ -1,0 +1,43 @@
+[
+	{
+		"id": 1,
+		"complete": false,
+		"text": "item1",
+		"moneyvalue": 100,
+		"operator": "add",
+		"expendDate": "10 February 2017"
+	},
+	{
+		"id": 2,
+		"complete": false,
+		"text": "item2",
+		"moneyvalue": 150,
+		"operator": "add",
+		"expendDate": "13 February 2017"
+	},
+	{
+		"id": 3,
+		"complete": false,
+		"text": "item3",
+		"moneyvalue": -200,
+		"operator": "minus",
+		"expendDate": "26 February 2017"
+	},
+	{
+		"id": 4,
+		"complete": false,
+		"text": "item3",
+		"moneyvalue": 10,
+		"operator": "add",
+		"expendDate": "13 February 2017"
+	},
+	{
+		"id": 5,
+		"complete": false,
+		"text": "item2",
+		"moneyvalue": 10,
+		"operator": "add",
+		"expendDate": "13 February 2017"
+	}
+]
+

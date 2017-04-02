@@ -1,0 +1,41 @@
+.chart-area{
+	width: 49%;
+	float:  left;
+	margin: 0 auto;
+	border: 3px solid tomato;
+	padding-bottom: 15px;
+}
+.users{
+	margin-bottom: 1.5em;
+}
+.messages {
+	margin: 0.5em;
+	border : 1px solid black;
+	padding: 1em;
+}
+
+.messages h2 {
+	margin-top: 5px;
+}
+
+.message_form,
+.change_name_form{
+	padding: 0 1em;
+}
+
+h2,
+h3 {
+	margin-bottom: 0.3em;
+}
+
+form {
+	margin-bottom: 0;
+}
+
+#ScatterChart {
+	float:  left;
+}
+
+.users {
+	display: none;
+}
